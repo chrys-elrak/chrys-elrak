@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chrys</h1>
-<h3 align="center">My name is Chrys, 21 yo and I'm from Madagascar (🇲🇬). I'm the founder of the GDSC at my university, selftaught and curious, I love programming and creating stuff.</h3>
+<h3 align="center">My name is Chrys, 22 yo and I'm from Madagascar (🇲🇬). I'm the founder of the GDSC at my university, selftaught and curious, I love programming and creating stuff.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrys-elrak&label=Profile%20views&color=0e75b6&style=flat" alt="chrys-elrak" /> </p>
 
