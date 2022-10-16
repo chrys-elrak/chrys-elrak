@@ -16,8 +16,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chrys.elrak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chrys.elrak" /></a><a href="https://ko-fi.com/chrys_elrak"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="chrys_elrak" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrys-elrak&show_icons=true&locale=en&layout=compact" alt="chrys-elrak" /></p>
+<br><br>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chrys-elrak&show_icons=true&locale=en&layout=compact" alt="chrys-elrak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrys-elrak&show_icons=true&locale=en" alt="chrys-elrak" /></p>
 
