@@ -22,7 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrys-elrak&show_icons=true&locale=en" alt="chrys-elrak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrys-elrak&" alt="chrys-elrak" /></p>
-
-
-<p><img align="center" src="https://readmy-jokes-6s1brm2rz-chrys-elrak.vercel.app/api/joke.api?jokeType=QA" alt="chrys-elrak" /></p>
-<br><br>
