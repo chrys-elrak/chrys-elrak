@@ -23,7 +23,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrys-elrak&" alt="chrys-elrak" /></p>
 
-<p><img align="center" src="http://80.85.84.66/api/v1?jokeType=qa&lang=mg" alt="QA" /></p>
+<p><img width="500" height="500" align="center" src="http://80.85.84.66/api/v1?jokeType=jk" alt="Joke" /></p>
 
 <br>
 
