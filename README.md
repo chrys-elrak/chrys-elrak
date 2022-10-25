@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Chrys</h1>
 <h3 align="center">My name is Chrys, 22 yo and I'm from Madagascar (🇲🇬). I'm selftaught and curious, I love programming and creating stuff.</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrys-elrak&label=Profile%20views&color=0e75b6&style=flat" alt="chrys-elrak" /> </p>
+
+<h3 align="left">A little joke:</h3>
+<p>This simple extension is made by me, You can contribute <a href="https://github.com/chrys-elrak/readmy-jokes">here</a>. Add more joke and enjoy it!
+<p><img width="500" align="center" src="http://80.85.84.66/api/v1?jokeType=jk" alt="Joke" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrys-elrak" alt="chrys-elrak" /></a> </p>
 
@@ -23,10 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrys-elrak&" alt="chrys-elrak" /></p>
 
-<p><img width="500" height="250" align="center" src="http://80.85.84.66/api/v1?jokeType=jk" alt="Joke" /></p>
 
-<br>
-
-<br>
 
 
