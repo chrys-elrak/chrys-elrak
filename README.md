@@ -3,7 +3,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrys-elrak&label=Profile%20views&color=0e75b6&style=flat" alt="chrys-elrak" /> </p>
-
+<img src="chrys.gif" width="150">
 <h3 align="left">A little joke:</h3>
 <p>This simple extension is made by me, You can contribute <a href="https://github.com/chrys-elrak/readmy-jokes">here</a>. Add more joke and enjoy it!
 <p><img width="500" height="250" align="center" src="http://80.85.84.66/api/v1?jokeType=jk" alt="Joke" /></p>
