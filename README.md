@@ -11,8 +11,9 @@
 </p>
 <h3 align="left">A little joke:</h3>
 <p>This simple extension is made by me, You can contribute <a href="https://github.com/chrys-elrak/readmy-jokes">here</a>. Add more joke and enjoy it!
+<!--
 <p><img width="500" height="250" align="center" src="http://80.85.84.66/api/v1?jokeType=jk" alt="Joke" /></p>
-
+-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrys-elrak" alt="chrys-elrak" /></a> </p>
 
 <h1>My skills</h1>
