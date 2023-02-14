@@ -7,7 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrys-elrak&label=Profile%20views&color=0e75b6&style=flat" alt="chrys-elrak" /> </p>
 <p>
-<img src="chrys.gif">
+    <a href="https://chrys-rakk.web.app/" target="_blank">
+    <img src="chrys.gif" atl="My website">
+    </a>
 </p>
 <h3 align="left">A little joke:</h3>
 <p>This simple extension is made by me, You can contribute <a href="https://github.com/chrys-elrak/readmy-jokes">here</a>. Add more joke and enjoy it!
