@@ -15,6 +15,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrys-elrak" alt="chrys-elrak" /></a> </p>
 
+<h1>My skills</h1>
+[My Skills](https://skillicons.dev/icons?i=angular,bash,react,ts,nodejs,vue,firebase,linux,django,flutter,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,sass,emotion,express,git,mongodb,nodejs)](https://skillicons.dev)
+<samp>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/xoxo.tsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xoxo.tsx" height="30" width="40" /></a>
